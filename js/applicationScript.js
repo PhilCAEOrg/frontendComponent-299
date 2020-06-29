@@ -54,5 +54,5 @@ var initClient = function(y) {
 
 $(document).ready(function() {
   init(); 
-  document.getElementById()
+  document.getElementById("input_9c3af").
 });
