@@ -53,5 +53,6 @@ var initClient = function(y) {
 
 
 $(document).ready(function() {
-  init();
+  init(); 
+  console.log("applicationScript: test");
 });
